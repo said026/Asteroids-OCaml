@@ -8,5 +8,6 @@ Simply run the makefile :)
 
     makefile
 
-![Alt text](http://full/path/to/img.jpg "Optional title")
-![Alt text](http://full/path/to/img.jpg "Optional title")
+![Alt tag](https://github.com/said026/Asteroids-OCaml/blob/master/screens/game%20(1).png)
+![Alt tag](https://github.com/said026/Asteroids-OCaml/blob/master/screens/game%20(2).png)
+![Alt tag](https://github.com/said026/Asteroids-OCaml/blob/master/screens/game%20(3).png)
